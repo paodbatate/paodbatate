@@ -9,9 +9,8 @@ paodbatate/paodbatate is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![96ffb54b56c6120bb5b5ece843714a4e (1)](https://github.com/paodbatate/paodbatate/assets/145921094/2a7b4d8a-72e8-4f10-914d-b2ce07b1719c)
-:root{
-    --background: url('[![96ffb54b56c6120bb5b5ece843714a4e (1)](https://github.com/paodbatate/paodbatate/assets/145921094/ac6b941e-391b-4a2b-8bcf-601960cd211c)
-)');
+:root
+
     --activetext-colour: white;
 
     --primary1-colour: purple;
